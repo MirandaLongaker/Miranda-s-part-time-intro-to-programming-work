@@ -22,6 +22,6 @@ _This was written using HTML, and the text editor is Atom._
 
 ### License
 
-*Determine the license under which this application can be used.  See below for more details on licensing.*
+*No License/open source*
 
 Copyright (c) 2019 **_Miranda Longaker and Epicodus_**
